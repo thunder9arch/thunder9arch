@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend & distributed systems engineer, building the infrastructure that makes LLM apps reliable.</b><br/>
-  Final-year student at Maharaja Surajmal Institute of Technology · Open to off-campus roles
+  
 </p>
 
 <p align="center">
